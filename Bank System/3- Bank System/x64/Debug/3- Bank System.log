@@ -1,0 +1,65 @@
+﻿  3- Bank System.cpp
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(157,62): warning C4227: anachronism used: qualifiers on reference are ignored
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(580,7): warning C4240: nonstandard extension used: access to 'clsString::enChoiseLetter' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '3-%20Bank%20System.cpp')
+      D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(27,7):
+      see declaration of 'clsString::enChoiseLetter'
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(248,21): warning C4267: 'return': conversion from 'size_t' to 'unsigned short', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(368,65): warning C4267: 'argument': conversion from 'size_t' to 'unsigned short', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(385,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(413,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(444,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(512,14): warning C4227: anachronism used: qualifiers on reference are ignored
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(516,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(552,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsString.h(556,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsDate.h(86,14): warning C4091: 'static ': ignored on left of 'clsDate::enCompareTwoDate' when no variable is declared
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsDate.h(1355,53): warning C4227: anachronism used: qualifiers on reference are ignored
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsDate.h(1355,75): warning C4227: anachronism used: qualifiers on reference are ignored
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsUillity.h(43,14): warning C4091: 'static ': ignored on left of 'clsUtility::enCharacterType' when no variable is declared
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsUserBank.h(427,9): warning C4240: nonstandard extension used: access to 'clsUserBank::stInformationRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '3-%20Bank%20System.cpp')
+      D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsUserBank.h(16,9):
+      see declaration of 'clsUserBank::stInformationRegister'
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsUserBank.h(462,61): warning C4227: anachronism used: qualifiers on reference are ignored
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsTransaction.h(22,14): warning C4091: 'static ': ignored on left of 'clsTransaction::enTransactionChoise' when no variable is declared
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsMangeUserSecren.h(21,14): warning C4091: 'static ': ignored on left of 'clsMangeUserSecren::enMangeUserChoise' when no variable is declared
+  (compiling source file '3-%20Bank%20System.cpp')
+  
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsBankClient.h(412,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\3- Bank System\clsUserBank.h(379,1): warning C4715: 'clsUserBank::Save': not all control paths return a value
+  3- Bank System.vcxproj -> D:\Programming part 2\- Programming with Dr. Mohammed Abu-Hadhoud\11 - OOP as it Should Be (Application)\3- Bank System\x64\Debug\3- Bank System.exe

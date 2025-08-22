@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Classes Client">
+      <UniqueIdentifier>{5e829d67-d986-409a-9a91-0069df82901d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Classes User">
+      <UniqueIdentifier>{76db074c-ff61-4771-ae5c-7b9b55aea813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI Bank System">
+      <UniqueIdentifier>{cf34d64b-f98a-46f9-bd15-c6321de13092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Transaction">
+      <UniqueIdentifier>{703f6f02-fcd4-454c-8a14-281343e4f535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Main Class Objects">
+      <UniqueIdentifier>{e5baa484-3655-4bed-81d5-c0bfca5af0c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Login">
+      <UniqueIdentifier>{b2147712-a5a0-4124-9ea3-fc978adecb4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Currency">
+      <UniqueIdentifier>{0800a045-2d27-4ba8-8e0e-8434a100d2c7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3- Bank System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsAddNewClient.h">
+      <Filter>Header Files\Classes Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCleintsList.h">
+      <Filter>Header Files\Classes Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateClient.h">
+      <Filter>Header Files\Classes Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindClient.h">
+      <Filter>Header Files\Classes Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteClient.h">
+      <Filter>Header Files\Classes Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteUser.h">
+      <Filter>Header Files\Classes User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindUser.h">
+      <Filter>Header Files\Classes User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowUserList.h">
+      <Filter>Header Files\Classes User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateUser.h">
+      <Filter>Header Files\Classes User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenuSecreen.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSecreen.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUillity.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalVarablesAndConstants.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransaction.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsWithdrawOperation.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDepositeOperation.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Main Class Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUserBank.h">
+      <Filter>Header Files\Main Class Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Main Class Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMangeUserSecren.h">
+      <Filter>Header Files\UI Bank System</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRegisterLogUsers.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogin.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewUser.h">
+      <Filter>Header Files\Classes User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferBalance.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowTransferLog.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowTotalBalance.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Header Files\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenuCurrencyExchange.h">
+      <Filter>Header Files\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowListCurrency.h">
+      <Filter>Header Files\Currency</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateRate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCalculatorCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
