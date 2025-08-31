@@ -6,6 +6,8 @@ This is a comprehensive system developed in C++ using Object-Oriented Programmin
 
 Whether you're a student eager to grasp OOP concepts, a developer aiming to build real-world systems, or even managing a small bank or a simple financial activity, this system is designed to be your ideal choice. 💡
 
+---
+
 ## 🌟 Why is this System Special?
 
 ### 🧠 Professional Software Design using OOP
@@ -15,6 +17,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 *   **Polymorphism:** ✨ Provides high flexibility in customizing and extending classes, making the system adaptable.
 *   **Single Responsibility Principle:** 🎯 Each class is dedicated to a specific function, leading to cleaner and more maintainable code.
 
+---
+
 ### ✨ Unique Features
 
 *   **Powerful Learning Experience:** 📚 Perfect for hands-on learning of OOP concepts through a practical, real-world application.
@@ -22,6 +26,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 *   **Simple & Efficient Storage:** 💾 All data is stored in text files, making it portable and easy to maintain.
 *   **User-Friendly Interactive Interface:** 🖥️ Clear menus and smart guidance for every step, ensuring a smooth user experience.
 *   **Scalability:** 📈 Easily add new features or integrate the system with graphical interfaces in the future, allowing for growth.
+
+---
 
 ## 🚀 Detailed Features
 
@@ -32,6 +38,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 *   **Search for Clients:** 🔍 Find clients using their account number or name.
 *   **Delete Clients:** ❌ Securely delete clients while retaining records for archiving purposes.
 *   **View Client List:** 📋 Display an organized and easy-to-read list of all clients.
+
+
 
 **Fields Stored for Each Client:**
 
@@ -44,6 +52,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 | Balance        | Current amount in the account.            |
 | Status         | Active or Deleted.                        |
 
+---
+
 ### 💰 Banking Transactions
 
 *   **Deposit:** 💸 Easily add funds to an account.
@@ -52,6 +62,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 *   **View Total Balances:** 📊 See the total amount of money across all accounts.
 
 **Tip:** All operations are protected by the permissions system to prevent errors or manipulation. 🔒
+
+---
 
 ### 👨‍💻 User Management
 
@@ -63,12 +75,17 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 *   **Update User Data:** 🖋️ Update user information at any time.
 *   **View Full User List:** 👀 Display a complete list of users and their permissions.
 
+---
+
 ### 📈 Currency Exchange
 
 *   **View Stored Currency Rates:** 🪙 Display currency rates stored in a dedicated file.
 *   **Search for Specific Currency:** 🔍 Find a specific currency and its value.
 *   **Update Exchange Rates:** ✏️ Easily update exchange rates.
 *   **Accurate Conversion Calculations:** 🧮 Perform precise conversions between different currencies.
+
+  ---
+  
 
 ### 📝 Storage & Logging
 
@@ -80,12 +97,16 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
     *   `RegisterLoginsUsers.txt` – Login/logout log.
 *   **Automatic File Creation:** 🛡️ Files are automatically created upon first run if they don't exist.
 
+---
+
 ## 🛠 System Requirements
 
 *   **Modern C++ Compiler:** GCC, MSVC, or Clang. 💻
 *   **Operating System:** Windows or Linux. 🐧
 *   **Development Environment:** Visual Studio, Code::Blocks, or VS Code. 🚀
 *   **No External Libraries:** Relies only on standard libraries, keeping it lightweight. 📦
+
+---
 
 ## 📂 Full Project Structure
 
@@ -141,6 +162,8 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 | `clsUtility.h`                | General utility tools.                        |
 | `GlobalVarablesAndConstants.h` | Stores global variables and constants.        |
 
+---
+
 ## ⚡ How to Run
 
 1.  **Copy all files** into a single folder. 📁
@@ -148,17 +171,23 @@ Whether you're a student eager to grasp OOP concepts, a developer aiming to buil
 3.  **Build the project.** 🛠️
 4.  **Run the program** and enjoy a smooth and interactive experience! ✨
 
+---
+
 ## 💡 Important Tips
 
 *   **Do not manually modify text files** unless you understand the required format. ⚠️
 *   **Ensure the program runs with appropriate permissions** to save files. 🔑
 *   **Try different user roles** to fully understand the permissions system. 👥
+*   
+---
 
 ## 📛 Why the Name "BankPro"?
 
 The project was named "BankPro" 🏦 to reflect its purpose as a professional and reliable banking system.
 The word "Bank" 💰 represents the core functionality of the system — managing clients, accounts, and transactions.
 The suffix "Pro" 🧑‍💻 stands for "Professional", indicating that the system is well-structured, scalable, and built with Object-Oriented Programming (OOP) principles ⚙️, making it suitable for advanced and professional-level use 🚀.
+
+---
 
 ## 🤝 Contributing
 
